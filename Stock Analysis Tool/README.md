@@ -25,7 +25,7 @@ The program fetches data both **online** (e.g., Yahoo Finance) and **offline** (
 
 ### **Workflow**
 
-![Figure1](./Diagram/Aktieköp - spec.jpg)
+![Figure1](./Diagram/Aktieköp.jpg)
 
 The program follows this flow:
 1. **Data Retrieval**:
